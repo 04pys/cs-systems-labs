@@ -8,10 +8,13 @@ Row-major(연속 접근)와 col-major-like(큰 stride 접근)의 **메모리 접
 ```bash
 g++ -O2 -std=c++17 main.cpp -o main
 ./main
+```
 
 ### Google Colab
+```
 !g++ -O2 -std=c++17 main.cpp -o main
 !./main
+```
 
 ## What to change
 
