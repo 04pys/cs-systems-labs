@@ -29,5 +29,6 @@ main.cpp의 int N = ...; 값을 바꿔가며 측정함
 첫 실행은 캐시 워밍/페이지 폴트 등으로 흔들릴 수 있어 warmup_row는 워밍업 용도임
 
 결과 및 해석은 result.md에 기록함(각 N별 시간 + 원인 추론)
-
+```
 ::contentReference[oaicite:0]{index=0}
+```
