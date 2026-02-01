@@ -20,3 +20,6 @@ stride(간격) 접근에서 성능이 언제부터 급격히 나빠지는지 확
 - 급격한 전환점이 어디인지
 - prefetch 버전이 도움이 된 구간/안 된 구간
 - 관찰을 cache line(64B), page(4KB), TLB 관점으로 해석함
+
+## Reference
+https://woohi.tistory.com/20
